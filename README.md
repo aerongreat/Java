@@ -1,2 +1,2 @@
-# Activity7
+# ActivityOOP
 Activity7 Identifying Syntax error 
