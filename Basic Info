@@ -1,0 +1,12 @@
+public class info{
+
+     public static void main(String []args){
+        System.out.println("Hello, Aeron!");
+        System.out.println("Hello, Philippines!");
+        String name="Aeron Ancheta";
+        System.out.println("My name is: " + name);
+        int age=21;
+        System.out.println( "Age : " + age + " years old");
+       
+     }
+}
