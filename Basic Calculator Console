@@ -1,0 +1,11 @@
+ public class HelloWorld{
+     public static void main(String []args){
+ int x = 40;
+        int y = 20;
+        System.out.println("Addition of x and y is : " +( x+y));
+        System.out.println("Subtraction of x and y is :"+( x-y));
+        System.out.println("Multiplication of x and y is : " + (x*y));
+        System.out.println("Division of x and y is : " + (x/y));
+        System.out.println("Modulo of x and y is : " + (x%y));     
+  }
+}
